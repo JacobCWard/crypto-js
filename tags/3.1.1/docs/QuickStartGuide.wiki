@@ -442,7 +442,7 @@ Decrypt with CryptoJS:
 
 == Encoders ==
 
-CryptoJS can convert from encoding formats such as Base64, Latin1 or Hex to WordArray objects and vica versa.
+CryptoJS can convert from encoding formats such as Base64, Latin1 or Hex to WordArray objects and vice versa.
 
 {{{
 <script src="http://crypto-js.googlecode.com/svn/tags/3.1/build/components/core-min.js"></script>
